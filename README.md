@@ -8,6 +8,7 @@
 ├── training/ # 各モデルの学習を行うJupyter Notebook
 ├── weights/ # 学習済みモデルの保存ファイル（.pth, .pklなど）
 ├── forecast/ # モデルによる予測結果
+├── images/ # 結果を可視化した画像
 └── result/ # 予測性能の評価や可視化を行うNotebook
 </pre>
 

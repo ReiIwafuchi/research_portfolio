@@ -24,7 +24,7 @@
   実行に時間がかかる部分は事前に学習済み重みや予測値を`weights/`および`forecast/`に保存済み。
 
 ## 結果
-- 
+- W<sub>1</sub>：ベンチマーク１
 ![pred_table](images/masters_thesis_pred_table.png)
 
 ![DM statistics](images/masters_thesis_dm.png)

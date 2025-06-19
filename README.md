@@ -3,11 +3,13 @@
 このリポジトリは、多変量の株価収益率データから、企業同士の成すネットワークを推定する統計・深層学習モデルを構築・検証した研究の実装例です。
 
 ## 📁 ディレクトリ構成
+'''
 ├── data/ # サンプルデータ（例：sample_data.csv）
 ├── training/ # 各モデルの学習を行うJupyter Notebook
 ├── weights/ # 学習済みモデルの保存ファイル（.pth, .pklなど）
 ├── forecast/ # モデルによる予測結果
 └── result/ # 予測性能の評価や可視化を行うNotebook
+'''
 
 ## 🔍 内容の概要
 
@@ -21,7 +23,7 @@
   実行に時間がかかる部分は事前に学習済み重みや予測値を`weights/`および`forecast/`に保存済み。
 
 ## 参考文献
--Raffaele Mattera, Philipp Otto,
+- Raffaele Mattera, Philipp Otto,
 Network log-ARCH models for forecasting stock market volatility,
 International Journal of Forecasting,
 Volume 40, Issue 4,

@@ -25,11 +25,11 @@
 
 ## 結果
 - 
-![pred_table](images/masters_pred_table.png)
+![pred_table](images/masters_thesis_pred_table.png)
 
 ![DM statistics](images/masters_thesis_dm.png)
 
-![network](images/network.png)
+![network](images/masters_thesis_network.png)
 
 ## 参考文献
 - Raffaele Mattera, Philipp Otto,

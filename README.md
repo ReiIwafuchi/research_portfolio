@@ -23,6 +23,9 @@
 - **学習済みデータ：**  
   実行に時間がかかる部分は事前に学習済み重みや予測値を`weights/`および`forecast/`に保存済み。
 
+## 結果
+!["DM statistics"]["images/masters_thesis_dm.png"]
+
 ## 参考文献
 - Raffaele Mattera, Philipp Otto,
 Network log-ARCH models for forecasting stock market volatility,

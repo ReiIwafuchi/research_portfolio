@@ -24,7 +24,10 @@
   実行に時間がかかる部分は事前に学習済み重みや予測値を`weights/`および`forecast/`に保存済み。
 
 ## 結果
-- W<sub>1</sub>：ベンチマーク１
+- W<sub>1</sub>：ベンチマーク1
+- W<sub>2</sub>：ベンチマーク2
+- W<sub>sg</sub>：提案モデル1（深層学習不使用）
+- W<sub>sdg</sub>：提案モデル2（深層学習使用）
 ![pred_table](images/masters_thesis_pred_table.png)
 
 ![DM statistics](images/masters_thesis_dm.png)

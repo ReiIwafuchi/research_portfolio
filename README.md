@@ -24,8 +24,11 @@
   実行に時間がかかる部分は事前に学習済み重みや予測値を`weights/`および`forecast/`に保存済み。
 
 ## 結果
+- 
 ![pred_table](images/masters_pred_table.png)
+
 ![DM statistics](images/masters_thesis_dm.png)
+
 ![network](images/network.png)
 
 ## 参考文献

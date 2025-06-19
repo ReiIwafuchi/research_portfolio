@@ -41,5 +41,12 @@ International Journal of Forecasting,
 Volume 40, Issue 4,
 2024,
 Pages 1539-1555,
-ISSN 0169-2070,
 https://doi.org/10.1016/j.ijforecast.2024.01.002.
+- Diebold, F. X., & Mariano, R. S.,
+Comparing Predictive Accuracy,
+Journal of Business & Economic Statistics,
+Volume 20,
+Issue 1,
+2002,
+Pages 134–144,
+https://doi.org/10.1198/073500102753410444
